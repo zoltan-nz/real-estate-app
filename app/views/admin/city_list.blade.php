@@ -1,0 +1,1 @@
+{{Form::select('city_id', $city_options, '', array('class' => 'form-control')) }}

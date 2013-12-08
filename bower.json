@@ -1,0 +1,19 @@
+{
+  "name": "realEstateApp",
+  "version": "0.0.0",
+  "homepage": "https://github.com/real-estate-app",
+  "description": "A boiler plate for writing web apps using Laravel and Ember",
+  "keywords": [
+    "laravel",
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}

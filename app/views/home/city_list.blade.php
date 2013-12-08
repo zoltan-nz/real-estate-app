@@ -1,0 +1,1 @@
+{{Form::select('city', $cities_options) }}

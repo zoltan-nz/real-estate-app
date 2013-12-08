@@ -1,0 +1,17 @@
+/bootstrap/compiled.php
+/vendor
+composer.phar
+composer.lock
+.DS_Store
+Thumbs.db
+.sass-cache
+node_modules
+.idea*
+.idea/*.*
+*.sublime-*
+/app/config/heroku/*
+/app/database/*.sqlite
+.coffee-cache
+.coffee-cache/*
+public/system/Property/*
+public/uploads/*.jpg

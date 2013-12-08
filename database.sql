@@ -1,0 +1,1 @@
+CREATE DATABASE real_estate_app;
