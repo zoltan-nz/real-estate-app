@@ -200,6 +200,7 @@ Information from heroku postgres database settings...
             ),
         'migrations' => 'migrations',
     );
-    
+
+update    
     
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/szines/real-estate-app/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
