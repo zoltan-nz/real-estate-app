@@ -9,3 +9,8 @@ body {
 .navbar-inverse .active {
   color: white !important;
 }
+
+#property-index tr :nth-child(11) {
+  min-width: 150px;
+  max-width: 150px;
+}

@@ -9,7 +9,7 @@
 </div>
 
 
-<table class="table table-striped table-bordered">
+<table class="table table-striped table-bordered" id="property-index">
     <thead>
     <tr>
         <th>ID</th>

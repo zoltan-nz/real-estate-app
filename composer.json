@@ -4,12 +4,12 @@
 	"keywords": ["framework", "laravel"],
 	"license": "MIT",
 	"require": {
-		"laravel/framework": "4.0.*",
+		"laravel/framework": "4.0.10",
         "fideloper/proxy": "dev-master",
-        "laravelbook/ardent": "dev-master",    
+        "laravelbook/ardent": "2.1.0",
         "loic-sharma/profiler": "1.1.*",
-        "twitter/bootstrap": "*",
-        "intervention/image": "dev-master"
+        "twitter/bootstrap": "3.0.3",
+        "intervention/image": "1.5.2"
 	},
 	"autoload": {
 		"classmap": [

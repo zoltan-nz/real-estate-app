@@ -12,7 +12,7 @@
             <li>{{ HTML::clever_link('/', 'Home') }}</li>
             <li>{{ HTML::clever_link('admin/properties', 'Admin') }}</li>
         </ul>
-        <ul class="nav navbar-nav">
+        <ul class="nav navbar-nav navbar-right">
             @if(!Auth::check())
             <li>{{ HTML::link('user/login', 'Login') }}</li>
             @else
