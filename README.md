@@ -1,7 +1,5 @@
 # Real Estate App
 
-Live url: [http://real-estate-app.gopagoda.com/](http://real-estate-app.gopagoda.com/)
-
 ### Installation
 
 This application built in Laravel 4.0 MVC framework.
