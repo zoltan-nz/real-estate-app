@@ -1,6 +1,22 @@
 # Real Estate App
 
+Introducing Real Estate Laravel Script, a user-friendly subscription-based multivendor classified listing or directory website built on Laravel 10 and Bootstrap. Admins can easily create featured plans with limits, and the product guarantees long-term support and updates. With its simplicity and versatility, Laravel Classified is perfect for crafting Automobile, Real Estate, and Listing sites.
+
+If you are in need of a script tailored to a specific niche, we are here to assist you with any customization requirements.
+
+Login Details
+
+Frontend https://demo.laravelclassified.com
+
+User Login user@laravelclassified.com test1234
+
+Backend https://demo.laravelclassified.com/login admin@laravelclassified.com test1234
+
+Contact for more Skype: cent040
+
 ### Installation
+
+
 
 This application built in Laravel 4.0 MVC framework.
 
